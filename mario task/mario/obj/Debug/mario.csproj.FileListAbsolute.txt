@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\mario\mario\bin\Debug\mario.exe.config
+C:\Users\pc\Desktop\mario\mario\bin\Debug\mario.exe
+C:\Users\pc\Desktop\mario\mario\bin\Debug\mario.pdb
+C:\Users\pc\Desktop\mario\mario\obj\Debug\mario.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\mario\mario\obj\Debug\mario.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\mario\mario\obj\Debug\mario.exe
+C:\Users\pc\Desktop\mario\mario\obj\Debug\mario.pdb
