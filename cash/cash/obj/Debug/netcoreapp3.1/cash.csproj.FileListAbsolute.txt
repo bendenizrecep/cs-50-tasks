@@ -1,0 +1,13 @@
+C:\Users\racap\Desktop\cash\cash\cash\bin\Debug\netcoreapp3.1\cash.exe
+C:\Users\racap\Desktop\cash\cash\cash\bin\Debug\netcoreapp3.1\cash.deps.json
+C:\Users\racap\Desktop\cash\cash\cash\bin\Debug\netcoreapp3.1\cash.runtimeconfig.json
+C:\Users\racap\Desktop\cash\cash\cash\bin\Debug\netcoreapp3.1\cash.runtimeconfig.dev.json
+C:\Users\racap\Desktop\cash\cash\cash\bin\Debug\netcoreapp3.1\cash.dll
+C:\Users\racap\Desktop\cash\cash\cash\bin\Debug\netcoreapp3.1\cash.pdb
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.csprojAssemblyReference.cache
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.AssemblyInfoInputs.cache
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.AssemblyInfo.cs
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.csproj.CoreCompileInputs.cache
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.dll
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.pdb
+C:\Users\racap\Desktop\cash\cash\cash\obj\Debug\netcoreapp3.1\cash.genruntimeconfig.cache
